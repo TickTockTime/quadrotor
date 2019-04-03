@@ -1,0 +1,8 @@
+prefix=/home/tardis/tardis_workspace/quadrotor/install
+
+Name: data_read
+Description: Description of data_read
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tardis/tardis_workspace/quadrotor/install/lib 
+Requires: 

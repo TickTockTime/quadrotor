@@ -1,0 +1,2 @@
+data_read:take_off
+-DCATKIN_DEVEL_PREFIX=/home/tardis/tardis_workspace/quadrotor/devel -DCMAKE_INSTALL_PREFIX=/home/tardis/tardis_workspace/quadrotor/install -G Unix Makefiles

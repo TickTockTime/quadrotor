@@ -1,0 +1,8 @@
+prefix=/home/tardis/tardis_workspace/quadrotor/install
+
+Name: take_off
+Description: Description of take_off
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tardis/tardis_workspace/quadrotor/install/lib 
+Requires: 

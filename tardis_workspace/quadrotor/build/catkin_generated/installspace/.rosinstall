@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tardis/tardis_workspace/quadrotor/install/setup.sh
